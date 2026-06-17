@@ -1,8 +1,10 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=200&section=header&text=Shehab%20Shibli&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineer%20·%20Cybersecurity%20·%20Cloud%20%26%20IoT&descAlignY=55&descSize=18&descColor=E8CC7A)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+2025+🚀;Top+100+National+Technology+Parade+🏅;Available+Immediately+·+Open+to+Relocation)](https://git.io/typing-svg)
+<h1>👋 Hi, I'm Shehab Shibli</h1>
+
+<h3>⚡ Network Engineer · Cybersecurity Specialist · Cloud & IoT</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+2025+🚀;Top+100+National+Technology+Parade+🏅;Available+Immediately+·+Open+to+Relocation)](https://git.io/typing-svg)
 
 <br>
 
@@ -26,7 +28,7 @@
 ```
 
 - 🏆 **3rd Place** — NASA Space Apps Challenge 2025 · Team Orion
-- 🥇 **Top 100** — 12th National Technology Parade (Israel)  
+- 🥇 **Top 100** — 12th National Technology Parade
 - ☁️ **CCNA** · **AWS Cloud Practitioner** · **Ethical Hacker** · **Cyber Threat Management**
 - ⚡ Available immediately · Onsite · Hybrid · Remote
 
@@ -42,7 +44,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![pfSense](https://img.shields.io/badge/Firewall-003366?style=for-the-badge&logo=pfsense&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-003366?style=for-the-badge&logoColor=white)
 
 **☁️ Cloud & IoT**
 
@@ -71,14 +73,15 @@
 <td width="50%">
 
 ### 🔬 Animal Detection System
-**Top 100 · National Technology Parade**
+**🏅 Top 100 · National Technology Parade**
 
-Real-time edge-to-cloud road safety system. Raspberry Pi 5 runs YOLOv5 (83% mAP) → MQTT/TLS → AWS IoT Core → Lambda broadcasts alerts to vehicles within **1 km radius**.
+Real-time edge-to-cloud road safety system. Raspberry Pi 5 runs YOLOv5 **(83% mAP)** → MQTT/TLS → AWS IoT Core → Lambda broadcasts alerts to vehicles within **1 km radius**.
 
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </td>
 <td width="50%">
@@ -90,6 +93,7 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 
 ![Space](https://img.shields.io/badge/LEO-Mission-0D1117?style=flat-square)
 ![NASA](https://img.shields.io/badge/NASA-Space_Apps-E03C31?style=flat-square&logo=nasa&logoColor=white)
+![Systems](https://img.shields.io/badge/Systems-Design-555?style=flat-square)
 
 </td>
 </tr>
@@ -101,13 +105,9 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shehab6157-design&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D12&title_color=C9A84C&icon_color=C9A84C&text_color=F0E6C8&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shehab6157-design&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D12&title_color=C9A84C&icon_color=C9A84C&text_color=F0E6C8" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shehab6157-design&theme=dark&hide_border=true&background=0D0D12&ring=C9A84C&fire=E8CC7A&currStreakLabel=C9A84C&sideLabels=F0E6C8&dates=8A8090" width="48%"/>
-
-<br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shehab6157-design&theme=darkhub&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -141,10 +141,10 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=120&section=footer&animation=fadeIn)
-
 📞 **+972 50-784-8250** · ✉️ **shehab6157@gmail.com**
 
 *Open to · SOC Analyst · NOC Engineer · Junior Security Engineer · Cloud Support*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shehab6157-design.shehab6157-design&color=C9A84C)
 
 </div>
