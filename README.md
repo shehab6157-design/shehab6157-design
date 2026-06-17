@@ -4,7 +4,7 @@
 
 <h3>⚡ Network Engineer · Cybersecurity Specialist · Cloud & IoT</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+2025+🚀;Top+100+National+Technology+Parade+🏅;Available+Immediately+·+Open+to+Relocation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=600&height=120&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+2025+🚀;Top+100+National+Technology+Parade+🏅;Available+Immediately+·+Open+to+Relocation)](https://git.io/typing-svg)
 
 <br>
 
