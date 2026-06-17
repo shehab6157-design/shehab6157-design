@@ -134,7 +134,9 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/shehab6157-design/shehab6157-design/output/github-contribution-grid-snake-dark.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=shehab6157-design&color=C9A84C&style=flat-square&label=Profile+Views)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
 ---
