@@ -4,13 +4,14 @@
 
 <h3>⚡ Network Engineer · Cybersecurity Specialist · Cloud & IoT</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=600&height=120&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+2025+🚀;Top+100+National+Technology+Parade+🏅;Available+Immediately+·+Open+to+Relocation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=700&height=120&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+Challenge+2025+%F0%9F%9A%80;Top+100+National+Technology+Parade+%F0%9F%8F%85;Available+Immediately+%C2%B7+Open+to+Relocation)](https://git.io/typing-svg)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-shibli)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehab6157@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=black)](https://shehab6157-design.github.io)
+[![Profile Views](https://komarev.com/ghpvc/?username=shehab6157-design&color=C9A84C&style=for-the-badge&label=Profile+Views)](https://github.com/shehab6157-design)
 
 </div>
 
@@ -19,18 +20,18 @@
 ## 🧠 About Me
 
 ```txt
-╔══════════════════════════════════════════════════════════════╗
-║  B.Sc. Network Engineering & Cybersecurity  ·  JUST  ·  2025 ║
-║  Builds systems from edge hardware to cloud infrastructure    ║
-║  Trilingual: Arabic · English · Hebrew                        ║
-║  Seeking: SOC Analyst · NOC Engineer · Cloud Support          ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  B.Sc. Network Engineering & Cybersecurity  ·  JUST  ·  2025    ║
+║  Builds systems from edge hardware to cloud infrastructure       ║
+║  Trilingual: Arabic · English · Hebrew                           ║
+║  Seeking: SOC Analyst · NOC Engineer · Cloud Support             ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 - 🏆 **3rd Place** — NASA Space Apps Challenge 2025 · Team Orion
-- 🥇 **Top 100** — 12th National Technology Parade
+- 🥇 **Top 100** — 12th National Technology Parade · Israel
 - ☁️ **CCNA** · **AWS Cloud Practitioner** · **Ethical Hacker** · **Cyber Threat Management**
-- ⚡ Available immediately · Onsite · Hybrid · Remote
+- ⚡ Available immediately · Onsite · Hybrid · Remote · Open to relocation
 
 ---
 
@@ -43,8 +44,9 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-003366?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-003366?style=for-the-badge&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-B00020?style=for-the-badge&logoColor=white)
 
 **☁️ Cloud & IoT**
 
@@ -52,7 +54,7 @@
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white)
 
 **💻 Development & AI**
 
@@ -70,29 +72,29 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 Animal Detection System
 **🏅 Top 100 · National Technology Parade**
 
-Real-time edge-to-cloud road safety system. Raspberry Pi 5 runs YOLOv5 **(83% mAP)** → MQTT/TLS → AWS IoT Core → Lambda broadcasts alerts to vehicles within **1 km radius**.
+Real-time edge-to-cloud road safety. Raspberry Pi 5 runs YOLOv5 **(83% mAP)** → MQTT/TLS → AWS IoT Core → Lambda alerts vehicles within **1 km radius**.
 
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![RPi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛸 S.O.S — Orbit Sweeper
 **🥉 3rd Place · NASA Space Apps 2025**
 
 Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture + laser array + onboard recycling. Vision: 50 units by 2040.
 
-![Space](https://img.shields.io/badge/LEO-Mission-0D1117?style=flat-square)
 ![NASA](https://img.shields.io/badge/NASA-Space_Apps-E03C31?style=flat-square&logo=nasa&logoColor=white)
+![LEO](https://img.shields.io/badge/LEO-Mission-0D1117?style=flat-square)
 ![Systems](https://img.shields.io/badge/Systems-Design-555?style=flat-square)
 
 </td>
@@ -129,24 +131,30 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 
 ---
 
-## 📈 Contribution Activity
+## 💡 Quote of the Day
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/shehab6157-design/shehab6157-design/output/github-contribution-grid-snake-dark.svg)
-![Visitor Count](https://komarev.com/ghpvc/?username=shehab6157-design&color=C9A84C&style=flat-square&label=Profile+Views)
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/shehab6157-design/shehab6157-design/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
 <div align="center">
 
-📞 **+972 50-784-8250** · ✉️ **shehab6157@gmail.com**
+📞 **+972 50-784-8250** &nbsp;·&nbsp; ✉️ **shehab6157@gmail.com**
 
 *Open to · SOC Analyst · NOC Engineer · Junior Security Engineer · Cloud Support*
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shehab6157-design.shehab6157-design&color=C9A84C)
 
 </div>
