@@ -29,7 +29,7 @@
 ```
 
 - 🏆 **3rd Place** — NASA Space Apps Challenge 2025 · Team Orion
-- 🥇 **Top 100** — 12th National Technology Parade · Israel
+- 🥇 **Top 100** — 12th National Technology Parade · Jordan
 - ☁️ **CCNA** · **AWS Cloud Practitioner** · **Ethical Hacker** · **Cyber Threat Management**
 - ⚡ Available immediately · Onsite · Hybrid · Remote · Open to relocation
 
@@ -155,6 +155,6 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 
 📞 **+972 50-784-8250** &nbsp;·&nbsp; ✉️ **shehab6157@gmail.com**
 
-*Open to · SOC Analyst · NOC Engineer · Junior Security Engineer · Cloud Support*
+*Open to · SOC Analyst · NOC Engineer · Junior Security Engineer · Cloud Support · AI · Database*
 
 </div>
