@@ -163,8 +163,6 @@ Full write-ups live on my [portfolio](https://shehab6157-design.github.io) — p
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shehab6157-design&theme=dark&hide_border=true&background=0D0D12&ring=C9A84C&fire=E8CC7A&currStreakLabel=C9A84C&sideLabels=F0E6C8&dates=8A8090" width="48%"/>
-
 <a href="https://github.com/shehab6157-design?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshehab6157-design&label=Public%20Repos&query=%24.public_repos&color=C9A84C&style=for-the-badge&labelColor=0D0D12" /></a>
 <a href="https://github.com/shehab6157-design"><img src="https://img.shields.io/github/followers/shehab6157-design?label=Followers&style=for-the-badge&color=C9A84C&labelColor=0D0D12" /></a>
 
