@@ -123,9 +123,9 @@ Modular satellite for active orbital debris cleanup in LEO. Net-and-gel capture 
 |:---|:---|:---|
 | Cisco Certified Network Associate (CCNA) | Cisco Systems | Oct 2028 |
 | AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | Nov 2028 |
-| Cyber Threat Management | Cisco Networking Academy | 2024 |
-| Ethical Hacker | Cisco Networking Academy | 2024 |
-| Introduction to Cybersecurity | Cisco Networking Academy | 2024 |
+| Cyber Threat Management | Cisco Networking Academy | 2025 |
+| Ethical Hacker | Cisco Networking Academy | 2025 |
+| Introduction to Cybersecurity | Cisco Networking Academy | 2025 |
 
 </div>
 
