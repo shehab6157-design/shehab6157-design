@@ -153,9 +153,9 @@ Content-based risk-scoring engine that catches **quishing** (QR-code phishing) �
 Full write-ups live on my [portfolio](https://shehab6157-design.github.io) — public repos coming as each build matures:
 
 - 🈳 **Multilingual Phishing & Scam Detection Tool** — NLP-based classifier purpose-built for Hebrew and Arabic-language messages, with a live interactive demo.
-- 🛰 **Lateral Movement (East-West) Detector** — behavioral network anomaly detector, validated on a self-hosted 3-VM isolated network against real captured attack traffic (7/7 real alerts fired, 0 false positives).
-- 🤖 **Personal AI Assistant** — full-stack assistant on the Claude API with a FastAPI backend, SQLite storage, and a RAG-style memory system.
-- 🛡 **ScamShield** — encrypted messenger (Matrix protocol / Dendrite homeserver) with a real-time scam-detection layer built into the chat itself. In active development.
+- 🛡️ **[Lateral Movement (East-West) Detector](https://github.com/shehab6157-design/lateral-movement-detector)** — behavioral network anomaly detector, validated on a self-hosted 3-VM isolated network against real captured attack traffic (7/7 real alerts fired, 0 false positives).
+- 💼 **Personal AI Assistant** — full-stack assistant on the Claude API with a FastAPI backend, SQLite storage, and a RAG-style memory system.
+- 💠 **ScamShield** — encrypted messenger (Matrix protocol / Dendrite homeserver) with a real-time scam-detection layer built into the chat itself. In active development.
 
 ---
 
