@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:6B5416,100:C9A84C&height=190&section=header&text=Shehab%20Shibli&fontSize=44&fontColor=F5E7B8&fontAlignY=36&desc=Network%20and%20Cybersecurity%20Engineer%20%C2%B7%20Cloud%2C%20AI%20and%20Database%20Systems&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/shehab6157-design/shehab6157-design/main/assets/medallion.svg" width="72" alt="medallion"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+Challenge+2025+%F0%9F%9A%80;Top+100+National+Technology+Parade%2C+Jordan+%F0%9F%8F%85;Available+Immediately+%C2%B7+Open+to+Relocation;Trilingual%3A+Arabic+%C2%B7+English+%C2%B7+Hebrew;Now+Building%3A+AI+Assistant+%C2%B7+ScamShield+%C2%B7+Threat+Detection)](https://git.io/typing-svg)
 
 <br>
