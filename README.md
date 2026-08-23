@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/shehab6157-design/shehab6157-design/main/assets/medallion.svg" width="72" alt="medallion"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+Challenge+2025+%F0%9F%9A%80;Top+100+National+Technology+Parade%2C+Jordan+%F0%9F%8F%85;Available+Immediately+%C2%B7+Open+to+Relocation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=CCNA+%7C+AWS+Cloud+Practitioner+%7C+Ethical+Hacker;3rd+Place+NASA+Space+Apps+Challenge+2025+%F0%9F%9A%80;Top+100+National+Technology+Parade%2C+Jordan+%F0%9F%8F%85;Available+Immediately+%C2%B7+Open+to+Relocation;Trilingual%3A+Arabic+%C2%B7+English+%C2%B7+Hebrew;Now+Building%3A+AI+Assistant+%C2%B7+ScamShield+%C2%B7+Threat+Detection)](https://git.io/typing-svg)
 
 <br>
 
@@ -21,10 +21,10 @@
 
 ```txt
 ╔══════════════════════════════════════════════════════════════════╗
-║ B.Sc. Network Engineering & Cybersecurity · JUST · 2025          ║
-║ Builds systems from edge hardware to cloud infrastructure        ║
-║ Trilingual: Arabic · English · Hebrew                            ║
-║ Seeking: SOC · NOC · Security Engineer · Cloud Support · AI · DB ║
+║  B.Sc. Network Engineering & Cybersecurity · JUST · 2025           ║
+║  Builds systems from edge hardware to cloud infrastructure         ║
+║  Trilingual: Arabic · English · Hebrew                             ║
+║  Seeking: SOC · NOC · Security Engineer · Cloud Support · AI · DB  ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
@@ -154,14 +154,23 @@ Full write-ups live on my [portfolio](https://shehab6157-design.github.io) — p
 
 - 🈳 **Multilingual Phishing & Scam Detection Tool** — NLP-based classifier purpose-built for Hebrew and Arabic-language messages, with a live interactive demo.
 - 🛡️ **[Lateral Movement (East-West) Detector](https://github.com/shehab6157-design/lateral-movement-detector)** — behavioral network anomaly detector, validated on a self-hosted 3-VM isolated network against real captured attack traffic (7/7 real alerts fired, 0 false positives).
-- 💼 **Personal AI Assistant** — full-stack assistant on the Claude API with a FastAPI backend, SQLite storage, and a RAG-style memory system.
-- 💠 **ScamShield** — encrypted messenger (Matrix protocol / Dendrite homeserver) with a real-time scam-detection layer built into the chat itself. In active development.
+- 💼 **[Personal AI Assistant](https://github.com/shehab6157-design/personal-assistant)** — full-stack assistant on the Claude API with a FastAPI backend, SQLite storage, and a RAG-style memory system.
+- 💠 **[ScamShield](https://github.com/shehab6157-design/scamshield)** — encrypted messenger (Matrix protocol / Dendrite homeserver) with a real-time scam-detection layer built into the chat itself. Working end-to-end prototype — server, client, and detection pipeline are live; the detector is currently a rule-based stub awaiting a full model.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=shehab6157-design&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=C9A84C&text_color=F5E7B8&icon_color=C9A84C&ring_color=C9A84C" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shehab6157-design&layout=compact&hide_border=true&bg_color=0D0D12&title_color=C9A84C&text_color=F5E7B8" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=shehab6157-design&hide_border=true&background=0D0D12&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=F5E7B8&currStreakNum=F5E7B8&sideNums=F5E7B8&dates=8B8B8B" width="70%" />
+
+<br/><br/>
 
 <a href="https://github.com/shehab6157-design?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshehab6157-design&label=Public%20Repos&query=%24.public_repos&color=C9A84C&style=for-the-badge&labelColor=0D0D12" /></a>
 <a href="https://github.com/shehab6157-design"><img src="https://img.shields.io/github/followers/shehab6157-design?label=Followers&style=for-the-badge&color=C9A84C&labelColor=0D0D12" /></a>
@@ -196,6 +205,14 @@ Full write-ups live on my [portfolio](https://shehab6157-design.github.io) — p
 </div>
 
 ---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehab6157-design&bg_color=0D0D12&color=C9A84C&line=C9A84C&point=F5E7B8&area=true&area_color=C9A84C&title_color=C9A84C&hide_border=true" width="95%" />
+
+</div>
 
 ## 🐍 Contribution Activity
 
