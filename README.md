@@ -138,7 +138,7 @@ Most intrusion-detection demos run on data their author generated. APIS was meas
 |:--|:--|:--|
 | **QR Risk Signal** | Content-based risk score for QR-code phishing ("quishing"): 9 client-side checks return a transparent 0–100 score with reasons, not a black box. | [Repo](https://github.com/shehab6157-design/QR-risk-demo) · [Live demo](https://shehab6157-design.github.io/QR-risk-demo/index.html) |
 | **AI Phishing Detector** | Layered detector (TF-IDF baseline, behavioral rules, sender history) built to show, and close, the gap where content-only classifiers miss well-written AI phishing. | [Repo](https://github.com/shehab6157-design/ai-phishing-detector) |
-| **Hebrew/Arabic Phishing & Scam Detector** | NLP classifier for the languages most Western tools ignore, with a live interactive demo. | [Portfolio](https://shehab6157-design.github.io) |
+| **Phishing & Scam Detector** | NLP classifier for the languages most Western tools ignore, with a live interactive demo. | [Portfolio](https://shehab6157-design.github.io) |
 | **Lateral Movement Detector** | Per-device behavioral baseline validated on a self-hosted 3-VM network; the lab-built ancestor of APIS. | [Repo](https://github.com/shehab6157-design/lateral-movement-detector) |
 | **Personal AI Assistant** | Full-stack assistant on the Claude API (FastAPI, SQLite, persistent memory). | [Repo](https://github.com/shehab6157-design/personal-assistant) |
 
