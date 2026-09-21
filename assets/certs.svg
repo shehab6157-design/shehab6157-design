@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 350" width="900" height="350" role="img"><title>Certifications</title><desc>CCNA (valid through Oct 2028), AWS Certified Cloud Practitioner (valid through Nov 2028), Cisco Networking Academy: Cyber Threat Management, Ethical Hacker, Introduction to Cybersecurity.</desc><defs>
+<linearGradient id="shim" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#F5E7B8" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="emb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F5E7B8"/><stop offset="1" stop-color="#C9A84C"/></linearGradient>
+<clipPath id="cc0"><rect width="435" height="132" rx="16"/></clipPath><clipPath id="cc1"><rect width="435" height="132" rx="16"/></clipPath><clipPath id="sc0"><rect width="280" height="84" rx="14"/></clipPath><clipPath id="sc1"><rect width="280" height="84" rx="14"/></clipPath><clipPath id="sc2"><rect width="280" height="84" rx="14"/></clipPath></defs><style>.sans{font-family:'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SF Mono','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes sh{0%{transform:translateX(0) skewX(-18deg)}35%,100%{transform:translateX(760px) skewX(-18deg)}}
+@keyframes pg{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}
+.sh{animation:sh 7s ease-in-out infinite}
+.pg{transform-box:fill-box;transform-origin:center;animation:pg 2.4s ease-out infinite}
+</style><rect x=".5" y=".5" width="899" height="349" rx="18" fill="#0B0B10" stroke="#2A2A38"/><g transform="translate(18 16) scale(0.96)">
+<text class="mono" x="4" y="20" font-size="10.5" font-weight="700" letter-spacing="2" fill="#C9A84C">// PROFESSIONAL CERTIFICATIONS</text>
+<g transform="translate(0 34)">
+<rect width="435" height="132" rx="16" fill="#12121A" stroke="#2A2A38"/>
+<g clip-path="url(#cc0)"><rect class="sh" style="animation-delay:0s" x="-160" y="0" width="140" height="132" fill="url(#shim)" transform="skewX(-18)"/></g>
+<g transform="translate(66 66)"><path d="M0.00,-40.00 L34.64,-20.00 L34.64,20.00 L0.00,40.00 L-34.64,20.00 L-34.64,-20.00 Z" fill="#171722" stroke="url(#emb)" stroke-width="2.2"/><path d="M0.00,-32.00 L27.71,-16.00 L27.71,16.00 L0.00,32.00 L-27.71,16.00 L-27.71,-16.00 Z" fill="none" stroke="#C9A84C" stroke-opacity=".35"/>
+<text class="mono" y="5" text-anchor="middle" font-size="15" font-weight="800" fill="url(#emb)">CCNA</text></g>
+<text class="mono" x="128" y="36" font-size="10" letter-spacing="2" fill="#C9A84C">CISCO SYSTEMS</text>
+<text class="sans" x="128" y="62" font-size="16" font-weight="800" fill="#EDE9DD">Cisco Certified Network Associate</text>
+<text class="mono" x="128" y="88" font-size="10.5" fill="#9A98A6">Certified Oct 30, 2025</text>
+<text class="mono" x="128" y="106" font-size="10.5" fill="#F5E7B8">Valid through Oct 30, 2028</text>
+<g transform="translate(345 14)"><rect width="76" height="20" rx="10" fill="none" stroke="#86EFAC" stroke-opacity=".7"/><circle cx="14" cy="10" r="3" fill="#86EFAC"/><circle class="pg" cx="14" cy="10" r="3" fill="none" stroke="#86EFAC"/><text class="mono" x="24" y="14" font-size="9" letter-spacing="1.2" fill="#86EFAC">ACTIVE</text></g>
+</g><g transform="translate(465 34)">
+<rect width="435" height="132" rx="16" fill="#12121A" stroke="#2A2A38"/>
+<g clip-path="url(#cc1)"><rect class="sh" style="animation-delay:2.5s" x="-160" y="0" width="140" height="132" fill="url(#shim)" transform="skewX(-18)"/></g>
+<g transform="translate(66 66)"><path d="M0.00,-40.00 L34.64,-20.00 L34.64,20.00 L0.00,40.00 L-34.64,20.00 L-34.64,-20.00 Z" fill="#171722" stroke="url(#emb)" stroke-width="2.2"/><path d="M0.00,-32.00 L27.71,-16.00 L27.71,16.00 L0.00,32.00 L-27.71,16.00 L-27.71,-16.00 Z" fill="none" stroke="#C9A84C" stroke-opacity=".35"/>
+<text class="mono" y="5" text-anchor="middle" font-size="17" font-weight="800" fill="url(#emb)">AWS</text></g>
+<text class="mono" x="128" y="36" font-size="10" letter-spacing="2" fill="#C9A84C">AMAZON WEB SERVICES</text>
+<text class="sans" x="128" y="62" font-size="16" font-weight="800" fill="#EDE9DD">AWS Certified Cloud Practitioner</text>
+<text class="mono" x="128" y="88" font-size="10.5" fill="#9A98A6">Certified Nov 5, 2025 · CLF-C02</text>
+<text class="mono" x="128" y="106" font-size="10.5" fill="#F5E7B8">Valid through Nov 5, 2028</text>
+<g transform="translate(345 14)"><rect width="76" height="20" rx="10" fill="none" stroke="#86EFAC" stroke-opacity=".7"/><circle cx="14" cy="10" r="3" fill="#86EFAC"/><circle class="pg" cx="14" cy="10" r="3" fill="none" stroke="#86EFAC"/><text class="mono" x="24" y="14" font-size="9" letter-spacing="1.2" fill="#86EFAC">ACTIVE</text></g>
+</g><g transform="translate(0.0 214)">
+<rect width="280" height="84" rx="14" fill="#12121A" stroke="#2A2A38"/>
+<g clip-path="url(#sc0)"><rect class="sh" style="animation-delay:1.0s" x="-160" y="0" width="120" height="84" fill="url(#shim)" transform="skewX(-18)"/></g>
+<g transform="translate(46 42)"><path d="M0.00,-28.00 L24.25,-14.00 L24.25,14.00 L0.00,28.00 L-24.25,14.00 L-24.25,-14.00 Z" fill="#171722" stroke="#C9A84C" stroke-width="1.6"/>
+<text class="mono" y="4.5" text-anchor="middle" font-size="11" font-weight="800" fill="#F5E7B8">CTM</text></g>
+<text class="sans" x="88" y="40" font-size="14" font-weight="800" fill="#EDE9DD">Cyber Threat Management</text>
+<text class="mono" x="88" y="58" font-size="9.5" fill="#9A98A6">Cisco Networking Academy · 2025</text>
+</g><g transform="translate(310.0 214)">
+<rect width="280" height="84" rx="14" fill="#12121A" stroke="#2A2A38"/>
+<g clip-path="url(#sc1)"><rect class="sh" style="animation-delay:2.4s" x="-160" y="0" width="120" height="84" fill="url(#shim)" transform="skewX(-18)"/></g>
+<g transform="translate(46 42)"><path d="M0.00,-28.00 L24.25,-14.00 L24.25,14.00 L0.00,28.00 L-24.25,14.00 L-24.25,-14.00 Z" fill="#171722" stroke="#C9A84C" stroke-width="1.6"/>
+<text class="mono" y="4.5" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">EH</text></g>
+<text class="sans" x="88" y="40" font-size="14" font-weight="800" fill="#EDE9DD">Ethical Hacker</text>
+<text class="mono" x="88" y="58" font-size="9.5" fill="#9A98A6">Cisco Networking Academy · 2025</text>
+</g><g transform="translate(620.0 214)">
+<rect width="280" height="84" rx="14" fill="#12121A" stroke="#2A2A38"/>
+<g clip-path="url(#sc2)"><rect class="sh" style="animation-delay:3.8s" x="-160" y="0" width="120" height="84" fill="url(#shim)" transform="skewX(-18)"/></g>
+<g transform="translate(46 42)"><path d="M0.00,-28.00 L24.25,-14.00 L24.25,14.00 L0.00,28.00 L-24.25,14.00 L-24.25,-14.00 Z" fill="#171722" stroke="#C9A84C" stroke-width="1.6"/>
+<text class="mono" y="4.5" text-anchor="middle" font-size="11" font-weight="800" fill="#F5E7B8">ICS</text></g>
+<text class="sans" x="88" y="34" font-size="14" font-weight="800" fill="#EDE9DD">Introduction to</text><text class="sans" x="88" y="51" font-size="14" font-weight="800" fill="#EDE9DD">Cybersecurity</text>
+<text class="mono" x="88" y="69" font-size="9.5" fill="#9A98A6">Cisco Networking Academy · 2025</text>
+</g>
+<text class="mono" x="4" y="204" font-size="10.5" font-weight="700" letter-spacing="2" fill="#C9A84C">// SECURITY COURSE CREDENTIALS</text>
+</g></svg>

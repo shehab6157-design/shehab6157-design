@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 360" width="900" height="360" role="img"><title>APIS — Adaptive Protective Immune System</title><desc>Nine-layer honeycomb pulses in sequence like an alarm signal; bars show network false positives falling from 2,896 to 603; key stats.</desc><defs></defs><style>.sans{font-family:'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SF Mono','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes hexc{0%{fill:#12121A;stroke:#3a3a4c}3%{fill:#4a3d16;stroke:#C9A84C}12%{fill:#2a2310;stroke:#C9A84C}24%,100%{fill:#12121A;stroke:#3a3a4c}}
+@keyframes grow{from{transform:scaleX(0)}}
+.hexc{animation:hexc 9s ease-out infinite}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.7,.2,1) both}
+</style><rect x=".5" y=".5" width="899" height="359" rx="18" fill="#0B0B10" stroke="#2A2A38"/>
+<text class="mono" x="28" y="34" font-size="12" font-weight="700" fill="#C9A84C" letter-spacing="1">04</text><text class="sans" x="58" y="35" font-size="15" font-weight="800" letter-spacing="2.4" fill="#EDE9DD">APIS — ADAPTIVE PROTECTIVE IMMUNE SYSTEM</text><g transform="translate(660.8 17)"><rect width="215.2" height="26" rx="13" fill="none" stroke="#C9A84C" stroke-opacity=".7"/><text class="mono" x="107.6" y="17" text-anchor="middle" font-size="10.5" fill="#F5E7B8" letter-spacing=".8">MEASURED ON REAL LANL DATA</text></g><line x1="24" y1="52" x2="876" y2="52" stroke="#2A2A38"/>
+<text class="mono" x="40" y="80" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#C9A84C">THE COLONY · 9 LAYERS</text>
+<g transform="translate(70.0 122)"><path class="hexc" style="animation-delay:0.00s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">1</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">GUARD</text></g><g transform="translate(129.0 122)"><path class="hexc" style="animation-delay:0.62s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">2</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">QUEEN</text></g><g transform="translate(188.0 122)"><path class="hexc" style="animation-delay:1.24s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">3</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">ALARM</text></g><g transform="translate(99.5 173)"><path class="hexc" style="animation-delay:1.86s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">4</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">QUORUM</text></g><g transform="translate(158.5 173)"><path class="hexc" style="animation-delay:2.48s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">5</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">HYGIENE</text></g><g transform="translate(217.5 173)"><path class="hexc" style="animation-delay:3.10s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">6</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">CONTAIN</text></g><g transform="translate(70.0 224)"><path class="hexc" style="animation-delay:3.72s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">7</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">MIMICRY</text></g><g transform="translate(129.0 224)"><path class="hexc" style="animation-delay:4.34s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">8</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">OVERWHELM</text></g><g transform="translate(188.0 224)"><path class="hexc" style="animation-delay:4.96s" d="M0.00,-32.50 L28.15,-16.25 L28.15,16.25 L0.00,32.50 L-28.15,16.25 L-28.15,-16.25 Z" fill="#12121A" stroke="#3a3a4c" stroke-width="1.6"/>
+<text class="mono" y="-3" text-anchor="middle" font-size="13" font-weight="800" fill="#F5E7B8">9</text>
+<text class="mono" y="10" text-anchor="middle" font-size="7.2" letter-spacing=".3" fill="#9A98A6">AGENT</text></g>
+<text class="mono" x="40" y="296" font-size="10" font-style="italic" fill="#F5E7B8">no single signal is ever actionable on its own</text>
+<line x1="286" y1="72" x2="286" y2="304" stroke="#2A2A38"/>
+<text class="mono" x="310" y="90" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#C9A84C">NETWORK FALSE POSITIVES</text>
+<text class="mono" x="388" y="124" text-anchor="end" font-size="10" fill="#9A98A6">untuned</text>
+<rect class="bar" style="animation-delay:0.00s" x="396" y="112" width="150.0" height="17" rx="4" fill="#F87171"/>
+<text class="mono" x="553.0" y="124.5" font-size="10.5" font-weight="700" fill="#EDE9DD">2,896</text><text class="mono" x="388" y="157" text-anchor="end" font-size="10" fill="#9A98A6">+ personalised</text>
+<rect class="bar" style="animation-delay:0.18s" x="396" y="145" width="69.3" height="17" rx="4" fill="#E39B5A"/>
+<text class="mono" x="472.3" y="157.5" font-size="10.5" font-weight="700" fill="#EDE9DD">1,337</text><text class="mono" x="388" y="190" text-anchor="end" font-size="10" fill="#9A98A6">+ signal filter</text>
+<rect class="bar" style="animation-delay:0.36s" x="396" y="178" width="43.4" height="17" rx="4" fill="#D8B24F"/>
+<text class="mono" x="446.4" y="190.5" font-size="10.5" font-weight="700" fill="#EDE9DD">837</text><text class="mono" x="388" y="223" text-anchor="end" font-size="10" fill="#9A98A6">+ clean window</text>
+<rect class="bar" style="animation-delay:0.54s" x="396" y="211" width="31.2" height="17" rx="4" fill="#C9A84C"/>
+<text class="mono" x="434.2" y="223.5" font-size="10.5" font-weight="700" fill="#EDE9DD">603</text>
+<text class="mono" x="310" y="262" font-size="10" fill="#9A98A6">precision 0.62% → 2.11%</text>
+<line x1="616" y1="72" x2="616" y2="304" stroke="#2A2A38"/>
+<text class="sans" x="640" y="114" font-size="31" font-weight="800" fill="#C9A84C">−79.2%</text>
+<text class="mono" x="640" y="130" font-size="10" fill="#EDE9DD">network-flow false positives</text>
+<text class="mono" x="640" y="143" font-size="10" fill="#9A98A6">2,896 → 603</text><text class="sans" x="640" y="180" font-size="31" font-weight="800" fill="#C9A84C">−79.0%</text>
+<text class="mono" x="640" y="196" font-size="10" fill="#EDE9DD">identity-side false positives</text>
+<text class="mono" x="640" y="209" font-size="10" fill="#9A98A6">38,131 → 7,991</text><text class="sans" x="640" y="246" font-size="31" font-weight="800" fill="#C9A84C">19×</text>
+<text class="mono" x="640" y="262" font-size="10" fill="#EDE9DD">precision when both agree</text>
+<text class="mono" x="640" y="275" font-size="10" fill="#9A98A6">2.11% → 40.0%</text>
+<line x1="24" y1="318" x2="876" y2="318" stroke="#2A2A38"/>
+<text class="mono" x="30" y="341" font-size="10" fill="#9A98A6">17,684 real computers · 58 days · independently labelled red team · 231 tests · failures documented</text></svg>

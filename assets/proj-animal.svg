@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 336" width="900" height="336" role="img"><title>Real-time animal detection pipeline</title><desc>Animated pipeline: Raspberry Pi 5 with YOLOv5, MQTT over TLS, AWS IoT Core, Lambda with Haversine 1 km radius, SNS alerts to nearby vehicles.</desc><defs></defs><style>.sans{font-family:'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SF Mono','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes lit{0%,100%{stroke:#2A2A38;fill:#12121A}5%,14%{stroke:#C9A84C;fill:#1d1a12}30%{stroke:#2A2A38;fill:#12121A}}
+@keyframes bb{0%,100%{stroke-opacity:1}50%{stroke-opacity:.15}}
+@keyframes wave{0%{transform:scale(.5);opacity:.9}100%{transform:scale(1.7);opacity:0}}
+.nd{animation:lit 7.0s linear infinite}
+.bbox{animation:bb 1.4s ease-in-out infinite}
+.wave{transform-box:fill-box;transform-origin:center;animation:wave 2.4s ease-out infinite}
+</style><rect x=".5" y=".5" width="899" height="335" rx="18" fill="#0B0B10" stroke="#2A2A38"/>
+<text class="mono" x="28" y="34" font-size="12" font-weight="700" fill="#C9A84C" letter-spacing="1">01</text><text class="sans" x="58" y="35" font-size="15" font-weight="800" letter-spacing="2.4" fill="#EDE9DD">REAL-TIME ANIMAL DETECTION &amp; ALERT</text><g transform="translate(588.8 17)"><rect width="287.2" height="26" rx="13" fill="none" stroke="#C9A84C" stroke-opacity=".7"/><text class="mono" x="143.6" y="17" text-anchor="middle" font-size="10.5" fill="#F5E7B8" letter-spacing=".8">TOP 100 · NATIONAL TECHNOLOGY PARADE</text></g><line x1="24" y1="52" x2="876" y2="52" stroke="#2A2A38"/>
+<line x1="30" y1="128" x2="870" y2="128" stroke="#C9A84C" stroke-opacity=".25" stroke-dasharray="2 6"/>
+
+<text class="mono" x="88.0" y="83" text-anchor="middle" font-size="10" letter-spacing="2" fill="#C9A84C">EDGE</text>
+<rect class="nd" style="animation-delay:0.48s" x="30.0" y="92" width="116" height="106" rx="14" fill="#12121A" stroke="#2A2A38" stroke-width="1.4"/>
+<g transform="translate(88.0 128)"><rect x="-24" y="-16" width="48" height="32" rx="4" fill="none" stroke="#9A98A6" stroke-width="1.4"/>
+<ellipse cx="-2" cy="4" rx="10" ry="5" fill="#9A98A6" fill-opacity=".55"/><circle cx="9" cy="-1" r="3.6" fill="#9A98A6" fill-opacity=".55"/>
+<rect class="bbox" x="-16" y="-9" width="34" height="22" rx="1" fill="none" stroke="#F87171" stroke-width="1.6" stroke-dasharray="4 3"/></g>
+<text class="sans" x="88.0" y="174" text-anchor="middle" font-size="12.5" font-weight="700" fill="#EDE9DD">Raspberry Pi 5</text>
+<text class="mono" x="88.0" y="189" text-anchor="middle" font-size="9.5" fill="#9A98A6">camera + GPS</text>
+<text class="mono" x="232.8" y="83" text-anchor="middle" font-size="10" letter-spacing="2" fill="#C9A84C">MODEL</text>
+<rect class="nd" style="animation-delay:1.69s" x="174.8" y="92" width="116" height="106" rx="14" fill="#12121A" stroke="#2A2A38" stroke-width="1.4"/>
+<g transform="translate(232.8 128)"><line x1="-18" y1="-12" x2="0" y2="-18" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="-12" x2="0" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="-12" x2="0" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="-12" x2="0" y2="18" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="0" x2="0" y2="-18" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="0" x2="0" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="0" x2="0" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="0" x2="0" y2="18" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="12" x2="0" y2="-18" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="12" x2="0" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="12" x2="0" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="-18" y1="12" x2="0" y2="18" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="-18" x2="18" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="-18" x2="18" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="-6" x2="18" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="-6" x2="18" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="6" x2="18" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="6" x2="18" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="18" x2="18" y2="-6" stroke="#C9A84C" stroke-opacity=".35"/><line x1="0" y1="18" x2="18" y2="6" stroke="#C9A84C" stroke-opacity=".35"/><circle cx="-18" cy="-12" r="3" fill="#C9A84C"/><circle cx="-18" cy="0" r="3" fill="#C9A84C"/><circle cx="-18" cy="12" r="3" fill="#C9A84C"/><circle cx="0" cy="-18" r="3" fill="#C9A84C"/><circle cx="0" cy="-6" r="3" fill="#C9A84C"/><circle cx="0" cy="6" r="3" fill="#C9A84C"/><circle cx="0" cy="18" r="3" fill="#C9A84C"/><circle cx="18" cy="-6" r="3" fill="#C9A84C"/><circle cx="18" cy="6" r="3" fill="#C9A84C"/></g>
+<text class="sans" x="232.8" y="174" text-anchor="middle" font-size="12.5" font-weight="700" fill="#EDE9DD">YOLOv5</text>
+<text class="mono" x="232.8" y="189" text-anchor="middle" font-size="9.5" fill="#9A98A6">83% mAP</text>
+<text class="mono" x="377.6" y="83" text-anchor="middle" font-size="10" letter-spacing="2" fill="#C9A84C">TRANSPORT</text>
+<rect class="nd" style="animation-delay:2.90s" x="319.6" y="92" width="116" height="106" rx="14" fill="#12121A" stroke="#2A2A38" stroke-width="1.4"/>
+<g transform="translate(377.6 128)"><rect x="-13" y="-3" width="26" height="20" rx="4" fill="none" stroke="#C9A84C" stroke-width="1.8"/>
+<path d="M-7 -3 V-9 a7 7 0 0 1 14 0 V-3" fill="none" stroke="#C9A84C" stroke-width="1.8"/><circle cy="7" r="2.6" fill="#C9A84C"/></g>
+<text class="sans" x="377.6" y="174" text-anchor="middle" font-size="12.5" font-weight="700" fill="#EDE9DD">MQTT / TLS</text>
+<text class="mono" x="377.6" y="189" text-anchor="middle" font-size="9.5" fill="#9A98A6">X.509 auth</text>
+<text class="mono" x="522.4" y="83" text-anchor="middle" font-size="10" letter-spacing="2" fill="#C9A84C">CLOUD</text>
+<rect class="nd" style="animation-delay:4.10s" x="464.4" y="92" width="116" height="106" rx="14" fill="#12121A" stroke="#2A2A38" stroke-width="1.4"/>
+<g transform="translate(522.4 128)"><path d="M-18 12 Q-27 12 -27 3 Q-27 -6 -16 -6 Q-14 -17 -2 -17 Q9 -17 11 -8 Q24 -8 24 3 Q24 12 15 12 Z" fill="#C9A84C" fill-opacity=".14" stroke="#C9A84C" stroke-width="1.8" stroke-linejoin="round"/></g>
+<text class="sans" x="522.4" y="174" text-anchor="middle" font-size="12.5" font-weight="700" fill="#EDE9DD">AWS IoT Core</text>
+<text class="mono" x="522.4" y="189" text-anchor="middle" font-size="9.5" fill="#9A98A6">message broker</text>
+<text class="mono" x="667.2" y="83" text-anchor="middle" font-size="10" letter-spacing="2" fill="#C9A84C">LOGIC</text>
+<rect class="nd" style="animation-delay:5.31s" x="609.2" y="92" width="116" height="106" rx="14" fill="#12121A" stroke="#2A2A38" stroke-width="1.4"/>
+<g transform="translate(667.2 128)"><text class="sans" y="14" text-anchor="middle" font-size="42" font-weight="300" fill="#C9A84C">λ</text></g>
+<text class="sans" x="667.2" y="174" text-anchor="middle" font-size="12.5" font-weight="700" fill="#EDE9DD">AWS Lambda</text>
+<text class="mono" x="667.2" y="189" text-anchor="middle" font-size="9.5" fill="#9A98A6">Haversine 1 km</text>
+<text class="mono" x="812.0" y="83" text-anchor="middle" font-size="10" letter-spacing="2" fill="#C9A84C">ALERT</text>
+<rect class="nd" style="animation-delay:6.52s" x="754.0" y="92" width="116" height="106" rx="14" fill="#12121A" stroke="#2A2A38" stroke-width="1.4"/>
+<g transform="translate(812.0 128)"><path d="M-20 6 V-1 Q-20 -4 -17 -4 L-11 -4 L-7 -12 H8 L12 -4 H17 Q20 -4 20 -1 V6 Z" fill="none" stroke="#C9A84C" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="-11" cy="8" r="4" fill="#0B0B10" stroke="#C9A84C" stroke-width="1.8"/><circle cx="11" cy="8" r="4" fill="#0B0B10" stroke="#C9A84C" stroke-width="1.8"/>
+<circle class="wave" cx="0" cy="-2" r="16" fill="none" stroke="#F87171" stroke-width="1.4"/></g>
+<text class="sans" x="812.0" y="174" text-anchor="middle" font-size="12.5" font-weight="700" fill="#EDE9DD">Vehicles</text>
+<text class="mono" x="812.0" y="189" text-anchor="middle" font-size="9.5" fill="#9A98A6">SNS alert</text>
+<circle r="4.2" fill="#5EEAD4" fill-opacity="1"><animateMotion dur="7.0s" begin="0s" repeatCount="indefinite" path="M30,128 L870,128"/></circle><circle r="3" fill="#5EEAD4" fill-opacity="0.55"><animateMotion dur="7.0s" begin="-0.14s" repeatCount="indefinite" path="M30,128 L870,128"/></circle><circle r="2.2" fill="#5EEAD4" fill-opacity="0.3"><animateMotion dur="7.0s" begin="-0.28s" repeatCount="indefinite" path="M30,128 L870,128"/></circle>
+<g transform="translate(30.0 226)"><rect width="195" height="66" rx="12" fill="#171722" stroke="#2A2A38"/>
+<text class="sans" x="16" y="34" font-size="26" font-weight="800" fill="#C9A84C">10,108</text>
+<text class="mono" x="16" y="53" font-size="10" fill="#9A98A6">training images</text></g><g transform="translate(245.0 226)"><rect width="195" height="66" rx="12" fill="#171722" stroke="#2A2A38"/>
+<text class="sans" x="16" y="34" font-size="26" font-weight="800" fill="#C9A84C">83%</text>
+<text class="mono" x="16" y="53" font-size="10" fill="#9A98A6">mAP on Raspberry Pi 5</text></g><g transform="translate(460.0 226)"><rect width="195" height="66" rx="12" fill="#171722" stroke="#2A2A38"/>
+<text class="sans" x="16" y="34" font-size="26" font-weight="800" fill="#C9A84C">1 km</text>
+<text class="mono" x="16" y="53" font-size="10" fill="#9A98A6">alert radius</text></g><g transform="translate(675.0 226)"><rect width="195" height="66" rx="12" fill="#171722" stroke="#2A2A38"/>
+<text class="sans" x="16" y="34" font-size="26" font-weight="800" fill="#C9A84C">5</text>
+<text class="mono" x="16" y="53" font-size="10" fill="#9A98A6">person team · I led it</text></g>
+<text class="mono" x="30" y="322" font-size="10" fill="#9A98A6">classes: sheep · cows · dogs · horses — detection on the edge, decisions in the cloud</text></svg>

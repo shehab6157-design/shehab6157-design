@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 22" width="900" height="22" role="img"><title></title><defs><linearGradient id="dl" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0"><stop offset="0" stop-color="#C9A84C" stop-opacity="0"/><stop offset=".5" stop-color="#C9A84C" stop-opacity=".9"/><stop offset="1" stop-color="#C9A84C" stop-opacity="0"/></linearGradient></defs><style>.sans{font-family:'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SF Mono','JetBrains Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes trav{0%{transform:translateX(-420px)}100%{transform:translateX(420px)}}
+.dot{animation:trav 6s ease-in-out infinite alternate}
+</style>
+<line x1="0" y1="11" x2="900" y2="11" stroke="url(#dl)" stroke-width="1"/>
+<g transform="translate(450 11)"><rect x="-4" y="-4" width="8" height="8" transform="rotate(45)" fill="#0B0B10" stroke="#C9A84C"/>
+<g class="dot"><circle r="6" fill="#C9A84C" fill-opacity=".25"/><circle r="2.2" fill="#F5E7B8"/></g></g>
+</svg>
