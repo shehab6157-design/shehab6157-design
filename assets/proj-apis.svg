@@ -47,4 +47,4 @@
 <text class="mono" x="640" y="262" font-size="10" fill="#EDE9DD">precision when both agree</text>
 <text class="mono" x="640" y="275" font-size="10" fill="#9A98A6">2.11% → 40.0%</text>
 <line x1="24" y1="318" x2="876" y2="318" stroke="#2A2A38"/>
-<text class="mono" x="30" y="341" font-size="10" fill="#9A98A6">17,684 real computers · 58 days · independently labelled red team · 231 tests · failures documented</text></svg>
+<text class="mono" x="30" y="341" font-size="10" fill="#9A98A6">17,684 real computers · 58 days · independently labelled red team · 236 tests · failures documented</text></svg>
