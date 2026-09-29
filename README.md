@@ -111,7 +111,7 @@ Most intrusion-detection demos run on data their author generated. APIS was meas
 - **Identity and credential theft:** false positives cut from 38,131 to 7,991 (**−79.0%**) at a 96.0% detection rate.
 - **Both agree:** precision reaches 40.0%, roughly **19×** better than either detector alone.
 - **AI-agent layer:** detects agents hijacked by indirect prompt injection, evaluated on 576 real tool calls. The first rule was falsified when the workload changed, then rebuilt on a structural hypothesis and re-tested on unseen sessions.
-- **Hardening:** SHA-256 hash-chained audit trail, flood-evasion tests, MITRE ATT&CK / ATLAS mapping, **231 tests**.
+- **Hardening:** SHA-256 hash-chained audit trail, flood-evasion tests, MITRE ATT&CK / ATLAS mapping, **236 tests**.
 - **Honest limits:** known evasions are kept in the test suite on purpose, and the agent-layer detection rate comes from constructed scenarios and is labelled as such.
 - **Repo:** [apis-lateral-movement-detector](https://github.com/shehab6157-design/apis-lateral-movement-detector) · [project site](https://shehab6157-design.github.io/apis-lateral-movement-detector/)
 
