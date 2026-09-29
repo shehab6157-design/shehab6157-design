@@ -47,7 +47,7 @@ I'm a network engineering and cybersecurity graduate who builds detection system
 
 | When | Where | What |
 |:--|:--|:--|
-| **2025 – now** | Independent Security & AI R&D | Designing, building and validating my own security tooling end to end: APIS, phishing detection, ScamShield. |
+| **2025 – now** | Independent Security & AI R&D | Designing, building and validating my own security tooling end to end: APIS, ScamShield. |
 | **2024 – 2025** | Graduation Project Lead, JUST | Led a five-person team building a real-time, edge-to-cloud animal detection system (Top 100 nationally). |
 | **3 months** | Backend Development Intern, Hope Company | C#, SQL and ASP.NET Core in a structured team-sprint environment. |
 | **3 months** | Linux & Enterprise Systems Trainee, SkyTech | SUSE Linux administration and troubleshooting; SAP Business One and SAP HANA exposure. |
@@ -137,8 +137,6 @@ Most intrusion-detection demos run on data their author generated. APIS was meas
 | Project | What it is | Links |
 |:--|:--|:--|
 | **QR Risk Signal** | Content-based risk score for QR-code phishing ("quishing"): 9 client-side checks return a transparent 0–100 score with reasons, not a black box. | [Repo](https://github.com/shehab6157-design/QR-risk-demo) · [Live demo](https://shehab6157-design.github.io/QR-risk-demo/index.html) |
-| **AI Phishing Detector** | Layered detector (TF-IDF baseline, behavioral rules, sender history) built to show, and close, the gap where content-only classifiers miss well-written AI phishing. | [Repo](https://github.com/shehab6157-design/ai-phishing-detector) |
-| **Phishing & Scam Detector** | NLP classifier for the languages most Western tools ignore, with a live interactive demo. | [Portfolio](https://shehab6157-design.github.io) |
 | **Lateral Movement Detector** | Per-device behavioral baseline validated on a self-hosted 3-VM network; the lab-built ancestor of APIS. | [Repo](https://github.com/shehab6157-design/lateral-movement-detector) |
 | **Personal AI Assistant** | Full-stack assistant on the Claude API (FastAPI, SQLite, persistent memory). | [Repo](https://github.com/shehab6157-design/personal-assistant) |
 
