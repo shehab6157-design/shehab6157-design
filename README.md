@@ -13,8 +13,8 @@ Learns what is normal for every device, user and AI agent on a network, and aler
 Tested on Los Alamos (LANL) data: caught 96% of Pass-the-Hash and Pass-the-Ticket attacks and cut false alarms by 79%.
 
 **[On-Road Animal Detection and Alert System](https://github.com/shehab6157-design/on-road-animal-detection-system)**<br>
-Raspberry Pi 5 with a custom YOLOv5 model that warns nearby vehicles through AWS IoT Core, Lambda and SNS.<br>
-83% mAP, 280 ms detection. Graduation project (team leader), Top 100 at Jordan's 12th National Technology Parade.
+Raspberry Pi 5 with a custom YOLOv5 model that warns nearby vehicles through AWS IoT Core and Lambda.<br>
+83% mAP, about 340 ms per frame on the Pi. Graduation project (team leader), Top 100 at Jordan's 12th National Technology Parade.
 
 **[AI-Phishing Detector](https://github.com/shehab6157-design/ai-phishing-detector)**<br>
 Layered phishing detector combining a text model, behavioral signals and sender history.<br>
