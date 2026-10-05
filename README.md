@@ -23,6 +23,7 @@ Caught 9 of 12 modern AI-style phishing emails with 0 false alarms, where the te
 More: [MCP Security Proxy](https://github.com/shehab6157-design/mcp-security-proxy) · [QR Risk Signal (live demo)](https://github.com/shehab6157-design/QR-risk-demo)
 
 **Tech:** Python, Linux, Networking (Cisco), AWS, Wireshark, SIEM, FastAPI<br>
-**Certifications:** CCNA · AWS Certified Cloud Practitioner · Cisco: Cyber Threat Management, Ethical Hacker, Introduction to Cybersecurity
+**Certifications:** CCNA · AWS Certified Cloud Practitioner · Cisco: Cyber Threat Management, Ethical Hacker, Introduction to Cybersecurity<br>
+**Recognition:** 3rd place, NASA Space Apps Challenge 2025 ([S.O.S: Sustainable Orbit Sweeper](https://github.com/shehab6157-design/sos-sustainable-orbit-sweeper)) · Top 100, Jordan's 12th National Technology Parade
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/shehab-shibli) · [Email](mailto:shehab6157@gmail.com) · [Portfolio](https://shehab6157-design.github.io)
