@@ -16,9 +16,9 @@ Finds attackers moving between machines inside a network, stolen credentials and
 
 ### [Hudward](https://anna.partners/store/@shehab-shibli/hudward)
 
-My anti scam app, live on the Anna App Store. Every day it shows three short rounds, a text message, a social media post and a phone call, and you decide if each one is a scam or real. The Check tab looks at any message you are not sure about: where each link really goes, look alike letters, fake senders and hidden text. It hides codes and card numbers before the AI reads a message, and it never just says safe. Works in English, Hebrew and Arabic.
+My anti scam app, built in Anna's Founding Builder Program and live on the Anna App Store. Every day it shows three short rounds, a text message, a social media post and a phone call, and you decide if each one is a scam or real. The Check tab looks at any message you are not sure about: where each link really goes, look alike letters, fake senders and hidden text. It hides codes and card numbers before the AI reads a message, and it never just says safe. Works in English, Hebrew and Arabic.
 
-[Open Hudward](https://anna.partners/store/@shehab-shibli/hudward) and [watch the video](https://youtu.be/CFCAFgwjGrA)
+[Open Hudward](https://anna.partners/store/@shehab-shibli/hudward), [watch the video](https://youtu.be/CFCAFgwjGrA) and [follow it on TikTok](https://www.tiktok.com/@hudward_app)
 
 ### [RightPart](https://shehab6157-design.github.io/rightpart/)
 
