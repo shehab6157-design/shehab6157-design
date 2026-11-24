@@ -47,7 +47,7 @@ An in car unit on a Raspberry Pi 5 with a night vision camera and a custom YOLOv
 - **[ScamShield](https://github.com/shehab6157-design/scamshield)**: a messenger prototype on the Matrix protocol that checks every incoming message for scam signs before showing it.
 - **[Personal AI Assistant](https://github.com/shehab6157-design/personal-assistant)**: a self hosted AI chat assistant with long term memory, built with FastAPI, the Claude API and SQLite.
 - **[S.O.S Sustainable Orbit Sweeper](https://github.com/shehab6157-design/sos-sustainable-orbit-sweeper)**: a satellite concept for cleaning up space debris. 3rd place at NASA Space Apps Challenge 2025, where I led Team Orion.
-- **[Lateral Movement Detector](https://github.com/shehab6157-design/lateral-movement-detector)**: the first version of APIS, tested on traffic I captured between three virtual machines.
+- **[Lateral Movement Detector](https://github.com/shehab6157-design/lateral-movement-detector)**: the first version of APIS, tested on synthetic traffic and on traffic I captured between three virtual machines.
 
 ## Skills
 
